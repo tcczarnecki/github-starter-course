@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Tad was here
+Tad was here and he edited this file in VS Code.
 
 ## 🤓 Course overview and learning outcomes 
 
